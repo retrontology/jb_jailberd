@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "crate/cratebig01c"
+	 $translucent "1"
+}

@@ -1,0 +1,10 @@
+// HLTV overview description file for jb_jailberd_v1_beta.bsp
+"jb_jailberd_v1_beta"
+{
+	"material"	"overviews/jb_jailberd_v1_beta_radar"	// texture file
+	"pos_x"		"-3884"				// X coordinate
+	"pos_y"		"5019"				// Y coordinate
+	"scale"		"7.7" 				// scale used when taking the screenshot
+	"rotate"	"0"				// map was rotated by 90 degrees in image editor
+	"zoom"		"4"				// optimal zoom factor if map is shown in full size
+}

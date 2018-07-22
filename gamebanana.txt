@@ -1,0 +1,53 @@
+jb_jailberd_v1_beta
+
+|
+
+Jailbreak Map for CS:GO
+
+|
+
+I've been working on this map on and off for a few months now and I believe it's finally time for a release. This is a jailbreak map inspired by those I used to play on when I first found jailbreak back on CS:S, particularly those of Captain Nighthawk. It includes a number of feature such as:
+
+ + Soccer
+ + Easy and Hard Climb
+ + Disco
+ + Maze
+ + Pool
+ + Deathrun
+ + Four Square
+ + Shooting Contest
+ + Colors Game
+ + Jump Rope
+ + Knife Arena
+ + Jump Contest
+ + And a few other goodies and secrets
+ 
+ |
+ 
+ I used mostly the stock library along with a few custom textures and sounds that I've packaged into the bsp.
+There are a total of 36 terrorist spawns points and 27 counter terrorist spawn points, so it should be able to accommodate a large population.
+I might release more versions in the future, but they would only be minor changes. The vast majority of the map is there and, to my knowledge, fully functional.
+
+|
+
+Jail
+Prison
+Soccer
+Pool
+Disco
+Colors
+Climb
+Deathrun
+
+|
+
+This is my first map, and although I have tested it extensively, I've probably missed a few things. So comments, critiques, and bug reports are very much appreciated.
+I would especially be interested in how it performs on a more populated server as well as lower end computers. It has been optimized a certain amount, and it runs very smoothly on my pc, but I haven't seen it perform under those conditions yet.
+
+|
+
+Extract, copy the jb_jailberd_v1_beta.bsp to your csgo map folder and everything should be gravy. I would recommend a jailbreak mod to accompany it as well as some form of NoBlock.
+
+|
+
+*11/29/2014 - Made box cage bigger, fixed ladders in cell vents, lowered roof, added random smoke spawn to cells, made solitary and execution doors stay open longer, fixed taser model in armory, made vents on roof a little more obvious, added ladder from roof to tower, fixed some of the music volume issues, fixed maze reset button, made cells open 1 minute in instead of 55 seconds

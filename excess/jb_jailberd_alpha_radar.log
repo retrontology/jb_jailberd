@@ -1,0 +1,1697 @@
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.vmf
+Map revision 601
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_A, using default
+Patching WVT material: maps/jb_jailberd_alpha_radar/tile/mill_floor01_blend_wvt_patch
+Patching WVT material: maps/jb_jailberd_alpha_radar/de_nuke/nukblenddirtgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 778 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1080626 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2894 texinfos to 1721
+Reduced 142 texdatas to 107 (5386 bytes to 4375)
+Writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+reading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.prt
+2041 portalclusters
+6038 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3.
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.vmf
+Map revision 601
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_A, using default
+Patching WVT material: maps/jb_jailberd_alpha_radar/tile/mill_floor01_blend_wvt_patch
+Patching WVT material: maps/jb_jailberd_alpha_radar/de_nuke/nukblenddirtgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 778 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1080626 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2894 texinfos to 1721
+Reduced 142 texdatas to 107 (5386 bytes to 4375)
+Writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+reading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.prt
+2041 portalclusters
+6038 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6..
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.vmf
+Map revision 601
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Can't find surfaceprop stone for material DE_CBBLE/STAIN_GLASS/STAIN_GLASS_A, using default
+Patching WVT material: maps/jb_jailberd_alpha_radar/tile/mill_floor01_blend_wvt_patch
+Patching WVT material: maps/jb_jailberd_alpha_radar/de_nuke/nukblenddirtgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 778 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1080626 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2894 texinfos to 1721
+Reduced 142 texdatas to 107 (5386 bytes to 4375)
+Writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+reading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.prt
+2041 portalclusters
+6038 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 375007 visible clusters (0.00%)
+Total clusters visible: 2547117
+Average clusters visible: 1247
+Building PAS...
+Average clusters audible: 2032
+visdatasize:1003807  compressed from 1044992
+writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+11823 faces
+6 degenerate faces
+2902615 square feet [417976640.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11817 patches before subdivision
+154763 patches after subdivision
+154 direct lights
+0
+WARNING: Too many light styles on a face at (-1791.000000, 2767.111084, 213.333328)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2764.929199, 209.333328)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2198.222168, 199.532639)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2193.515625, 210.382813)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2742.952393, 192.666672)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2749.619141, 193.515152)
+
+WARNING: Too many light styles on a face at (-1766.673462, 2214.674805, 41.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2199.111084, 194.075089)
+
+WARNING: Too many light styles on a face at (-1718.673218, 2214.674805, 41.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2192.666748, 217.049484)
+
+WARNING: Too many light styles on a face at (-1654.675171, 2486.673828, 41.000000)
+
+WARNING: Too many light styles on a face at (-1654.675171, 2614.673828, 41.000000)
+
+WARNING: Too many light styles on a face at (-1654.675659, 2550.673584, 41.000000)
+
+WARNING: Too many light styles on a face at (-1654.672607, 2358.675293, 41.000000)
+.
+WARNING: Too many light styles on a face at (-870.674683, 2310.674316, 33.000000)
+
+WARNING: Too many light styles on a face at (-774.672241, 2214.675293, 33.000000)
+
+WARNING: Too many light styles on a face at (-870.674744, 2502.674316, 33.000000)
+
+WARNING: Too many light styles on a face at (-774.677246, 2310.669678, 33.000000)
+
+WARNING: Too many light styles on a face at (-870.671814, 2694.675781, 33.000000)
+
+WARNING: Too many light styles on a face at (-774.674744, 2598.674072, 33.000000)
+
+WARNING: Too many light styles on a face at (-774.671143, 2694.676025, 33.000000)
+
+WARNING: Too many light styles on a face at (-870.671021, 2214.676270, 33.000000)
+
+WARNING: Too many light styles on a face at (-870.674805, 2598.674072, 33.000000)
+
+WARNING: Too many light styles on a face at (-774.677124, 2502.665527, 33.000000)
+
+WARNING: Too many light styles on a face at (-870.674133, 2406.674561, 33.000000)
+
+WARNING: Too many light styles on a face at (-774.674622, 2406.674316, 33.000000)
+
+WARNING: Too many light styles on a face at (-861.279541, 2265.164063, 49.000000)
+
+WARNING: Too many light styles on a face at (-851.191589, 2478.789307, 49.000000)
+
+WARNING: Too many light styles on a face at (-861.176025, 2649.853027, 49.000000)
+
+WARNING: Too many light styles on a face at (-1688.000000, 2696.000000, 57.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2248.000000, 57.000000)
+
+WARNING: Too many light styles on a face at (-1692.000000, 2248.000000, 57.000000)
+
+WARNING: Too many light styles on a face at (-1696.888306, 2277.333252, 57.000000)
+
+WARNING: Too many light styles on a face at (-1722.667114, 2256.444824, 57.000000)
+
+WARNING: Too many light styles on a face at (-1711.629272, 2259.000000, 57.000000)
+
+WARNING: Too many light styles on a face at (-1699.068115, 2273.333252, 57.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2257.000000, 52.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2257.000000, 40.000000)
+..1...2
+WARNING: Too many light styles on a face at (-1631.513550, 2476.835449, 37.999996)
+
+WARNING: Too many light styles on a face at (-1698.219238, 2198.875244, 38.000000)
+
+WARNING: Too many light styles on a face at (-1631.514038, 2483.167969, 37.999130)
+
+WARNING: Too many light styles on a face at (-1663.000000, 2264.000000, 52.000000)
+
+WARNING: Too many light styles on a face at (-1631.513428, 2604.835449, 37.999996)
+
+WARNING: Too many light styles on a face at (-862.180725, 2308.447754, 19.999910)
+
+WARNING: Too many light styles on a face at (-820.448608, 2449.815918, 35.999996)
+
+WARNING: Too many light styles on a face at (-860.834717, 2320.486084, 30.000278)
+
+WARNING: Too many light styles on a face at (-865.815308, 2308.448975, 20.000387)
+
+WARNING: Too many light styles on a face at (-880.486389, 2492.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-868.448669, 2302.183594, 19.999998)
+
+WARNING: Too many light styles on a face at (-880.486450, 2307.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-873.125122, 2317.780273, 29.999947)
+
+WARNING: Too many light styles on a face at (-880.486389, 2300.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-867.164368, 2320.486084, 29.999945)
+
+WARNING: Too many light styles on a face at (-807.784912, 2303.198486, 46.000050)
+
+WARNING: Too many light styles on a face at (-772.448608, 2593.815918, 19.999998)
+
+WARNING: Too many light styles on a face at (-877.780823, 2294.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-877.781006, 2313.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-851.472961, 2222.469971, 46.000000)
+
+WARNING: Too many light styles on a face at (-873.124817, 2290.219482, 29.999451)
+
+WARNING: Too many light styles on a face at (-868.448547, 2305.815918, 19.999998)
+
+WARNING: Too many light styles on a face at (-849.530151, 2220.527100, 45.999908)
+
+WARNING: Too many light styles on a face at (-833.216858, 2301.198486, 45.999992)
+
+WARNING: Too many light styles on a face at (-863.198486, 2264.217041, 46.000000)
+
+WARNING: Too many light styles on a face at (-820.448608, 2254.183838, 36.000000)
+
+WARNING: Too many light styles on a face at (-817.816711, 2260.448730, 36.000420)
+
+WARNING: Too many light styles on a face at (-814.181763, 2260.448242, 36.001240)
+
+WARNING: Too many light styles on a face at (-868.448608, 2398.183838, 20.000000)
+
+WARNING: Too many light styles on a face at (-868.448608, 2494.183594, 19.999998)
+
+WARNING: Too many light styles on a face at (-849.530029, 2291.472900, 46.000023)
+
+WARNING: Too many light styles on a face at (-777.124146, 2194.218994, 30.000122)
+
+WARNING: Too many light styles on a face at (-856.473022, 2281.530029, 46.000000)
+
+WARNING: Too many light styles on a face at (-784.486389, 2396.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-820.448669, 2446.183594, 35.999996)
+
+WARNING: Too many light styles on a face at (-861.198486, 2238.782959, 46.000000)
+
+WARNING: Too many light styles on a face at (-868.448608, 2590.183594, 19.999998)
+
+WARNING: Too many light styles on a face at (-766.183960, 2308.448730, 20.002455)
+
+WARNING: Too many light styles on a face at (-764.837891, 2320.486572, 30.000906)
+
+WARNING: Too many light styles on a face at (-769.814880, 2308.448975, 20.000908)
+
+WARNING: Too many light styles on a face at (-784.486389, 2300.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-781.780884, 2294.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-771.167419, 2320.485840, 29.999306)
+
+WARNING: Too many light styles on a face at (-784.486450, 2307.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-777.124512, 2317.780762, 30.000004)
+
+WARNING: Too many light styles on a face at (-820.448730, 2257.816162, 36.000000)
+
+WARNING: Too many light styles on a face at (-868.448608, 2206.183594, 19.999998)
+
+WARNING: Too many light styles on a face at (-772.448608, 2302.183594, 19.999998)
+
+WARNING: Too many light styles on a face at (-781.780762, 2313.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-860.831604, 2224.485596, 29.999397)
+
+WARNING: Too many light styles on a face at (-772.448547, 2305.815918, 19.999998)
+
+WARNING: Too many light styles on a face at (-862.182861, 2212.448242, 20.001841)
+
+WARNING: Too many light styles on a face at (-868.448547, 2209.815918, 19.999998)
+.
+WARNING: Too many light styles on a face at (-865.816162, 2212.448730, 19.999498)
+
+WARNING: Too many light styles on a face at (-880.486450, 2211.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-873.124695, 2194.219238, 29.999472)
+
+WARNING: Too many light styles on a face at (-873.124939, 2221.780518, 30.000061)
+
+WARNING: Too many light styles on a face at (-880.486389, 2204.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-880.486328, 2396.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-820.448547, 2641.815918, 35.999996)
+
+WARNING: Too many light styles on a face at (-865.814758, 2500.448975, 20.000475)
+
+WARNING: Too many light styles on a face at (-867.159424, 2224.486816, 30.000360)
+
+WARNING: Too many light styles on a face at (-877.780823, 2198.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-784.486267, 2595.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-880.486328, 2684.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-865.817627, 2491.551514, 20.001017)
+
+WARNING: Too many light styles on a face at (-877.781250, 2505.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-873.124695, 2482.219238, 29.999468)
+
+WARNING: Too many light styles on a face at (-873.124939, 2509.780762, 29.999971)
+
+WARNING: Too many light styles on a face at (-877.780884, 2486.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-867.164673, 2479.513672, 30.000334)
+
+WARNING: Too many light styles on a face at (-849.530090, 2412.527100, 46.000000)
+
+WARNING: Too many light styles on a face at (-868.448608, 2497.815918, 19.999998)
+
+WARNING: Too many light styles on a face at (-851.473022, 2414.469971, 46.000000)
+
+WARNING: Too many light styles on a face at (-849.529907, 2483.472900, 45.999931)
+
+WARNING: Too many light styles on a face at (-861.198486, 2430.782959, 46.000000)
+
+WARNING: Too many light styles on a face at (-833.217041, 2402.802002, 46.000084)
+
+WARNING: Too many light styles on a face at (-817.816162, 2452.448730, 36.000290)
+
+WARNING: Too many light styles on a face at (-833.217224, 2493.198242, 46.000061)
+
+WARNING: Too many light styles on a face at (-880.486389, 2499.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-877.780762, 2217.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-856.473022, 2473.530029, 46.000000)
+
+WARNING: Too many light styles on a face at (-781.780762, 2390.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-817.816101, 2443.550781, 36.000568)
+
+WARNING: Too many light styles on a face at (-868.448608, 2686.183594, 19.999998)
+
+WARNING: Too many light styles on a face at (-784.486389, 2588.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-820.448608, 2638.183594, 35.999996)
+
+WARNING: Too many light styles on a face at (-1722.168945, 2257.985596, 51.999977)
+
+WARNING: Too many light styles on a face at (-777.124146, 2386.218994, 30.000114)
+
+WARNING: Too many light styles on a face at (-777.124329, 2509.781250, 30.000101)
+
+WARNING: Too many light styles on a face at (-781.780762, 2505.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-863.198364, 2456.217041, 46.000000)
+
+WARNING: Too many light styles on a face at (-865.815735, 2404.448975, 19.999607)
+
+WARNING: Too many light styles on a face at (-771.164307, 2512.486328, 30.000015)
+
+WARNING: Too many light styles on a face at (-880.486328, 2588.835449, 29.999998)
+
+WARNING: Too many light styles on a face at (-784.488159, 2499.153320, 30.000011)
+
+WARNING: Too many light styles on a face at (-865.814941, 2395.550781, 19.999563)
+
+WARNING: Too many light styles on a face at (-873.125000, 2413.780762, 29.999954)
+
+WARNING: Too many light styles on a face at (-873.125183, 2386.219727, 29.999332)
+
+WARNING: Too many light styles on a face at (-880.486450, 2403.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-877.780884, 2390.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-877.781006, 2409.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-868.448669, 2689.815918, 19.999998)
+
+WARNING: Too many light styles on a face at (-860.835205, 2671.513184, 29.999893)
+
+WARNING: Too many light styles on a face at (-867.165649, 2416.486084, 30.000378)
+
+WARNING: Too many light styles on a face at (-867.162842, 2671.513184, 30.000269)
+
+WARNING: Too many light styles on a face at (-862.185120, 2683.550781, 20.000996)
+
+WARNING: Too many light styles on a face at (-880.486450, 2691.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-877.780884, 2697.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-868.448547, 2401.815918, 19.999998)
+
+WARNING: Too many light styles on a face at (-877.780884, 2678.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-873.125305, 2674.220215, 29.999393)
+
+WARNING: Too many light styles on a face at (-873.124756, 2701.780518, 30.000040)
+
+WARNING: Too many light styles on a face at (-861.198486, 2622.782959, 46.000000)
+
+WARNING: Too many light styles on a face at (-863.198425, 2648.217041, 46.000000)
+
+WARNING: Too many light styles on a face at (-851.473083, 2606.469971, 46.000000)
+
+WARNING: Too many light styles on a face at (-833.217041, 2594.801758, 46.000103)
+
+WARNING: Too many light styles on a face at (-865.817871, 2683.551758, 19.999107)
+
+WARNING: Too many light styles on a face at (-814.184753, 2635.551270, 36.000084)
+
+WARNING: Too many light styles on a face at (-771.162415, 2383.513428, 29.999561)
+
+WARNING: Too many light styles on a face at (-807.782959, 2592.801758, 45.999992)
+
+WARNING: Too many light styles on a face at (-766.184448, 2587.551025, 20.000040)
+
+WARNING: Too many light styles on a face at (-849.529785, 2675.472900, 45.999989)
+
+WARNING: Too many light styles on a face at (-817.816223, 2635.551514, 35.999962)
+
+WARNING: Too many light styles on a face at (-856.472778, 2665.530029, 46.000000)
+
+WARNING: Too many light styles on a face at (-771.162537, 2575.513428, 29.999535)
+
+WARNING: Too many light styles on a face at (-777.124146, 2578.218750, 30.000118)
+
+WARNING: Too many light styles on a face at (-781.780762, 2582.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-849.530273, 2604.527100, 45.999828)
+
+WARNING: Too many light styles on a face at (-769.817322, 2587.551270, 20.000887)
+
+WARNING: Too many light styles on a face at (-764.834717, 2575.513672, 30.000669)
+
+WARNING: Too many light styles on a face at (-777.124329, 2701.781250, 30.000101)
+
+WARNING: Too many light styles on a face at (-865.816345, 2587.551025, 20.000628)
+
+WARNING: Too many light styles on a face at (-868.448608, 2593.815918, 19.999998)
+
+WARNING: Too many light styles on a face at (-772.448608, 2590.183594, 19.999998)
+
+WARNING: Too many light styles on a face at (-862.184326, 2587.551270, 19.998827)
+
+WARNING: Too many light styles on a face at (-781.780884, 2601.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-873.124695, 2605.780762, 29.999996)
+
+WARNING: Too many light styles on a face at (-873.124207, 2578.218750, 30.000130)
+
+WARNING: Too many light styles on a face at (-877.781128, 2601.124756, 30.000000)
+
+WARNING: Too many light styles on a face at (-867.175537, 2575.515381, 29.999681)
+
+WARNING: Too many light styles on a face at (-860.840454, 2575.521240, 30.000383)
+
+WARNING: Too many light styles on a face at (-877.780884, 2582.875244, 30.000000)
+
+WARNING: Too many light styles on a face at (-880.486267, 2595.164063, 29.999998)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2542.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1750.871216, 2194.222900, 37.999554)
+
+WARNING: Too many light styles on a face at (-1743.513306, 2204.835449, 37.999996)
+
+WARNING: Too many light styles on a face at (-1707.551270, 2209.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1710.189331, 2212.450684, 33.999981)
+
+WARNING: Too many light styles on a face at (-1746.219238, 2198.875244, 38.000000)
+
+WARNING: Too many light styles on a face at (-1695.513550, 2211.164063, 37.999996)
+
+WARNING: Too many light styles on a face at (-1707.551270, 2206.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1702.877075, 2194.218018, 37.999058)
+
+WARNING: Too many light styles on a face at (-1695.513306, 2204.835449, 37.999996)
+
+WARNING: Too many light styles on a face at (-1698.219238, 2217.124756, 38.000000)
+.
+WARNING: Too many light styles on a face at (-1713.817749, 2212.448242, 33.999954)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2289.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1646.182617, 2292.448730, 33.999836)
+
+WARNING: Too many light styles on a face at (-1649.813232, 2292.449951, 34.000122)
+
+WARNING: Too many light styles on a face at (-1646.184814, 2356.449219, 33.999836)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2353.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2350.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1634.222290, 2361.128662, 38.001045)
+
+WARNING: Too many light styles on a face at (-1638.875977, 2365.781494, 38.000309)
+
+WARNING: Too many light styles on a face at (-1644.833862, 2368.485840, 37.999596)
+
+WARNING: Too many light styles on a face at (-1631.514038, 2355.167969, 37.999130)
+
+WARNING: Too many light styles on a face at (-1646.182739, 2347.551758, 33.999989)
+
+WARNING: Too many light styles on a face at (-1631.513428, 2348.835449, 37.999996)
+
+WARNING: Too many light styles on a face at (-1634.219116, 2342.875244, 38.000000)
+
+WARNING: Too many light styles on a face at (-1646.181152, 2420.447998, 34.000038)
+
+WARNING: Too many light styles on a face at (-1638.871338, 2338.222412, 37.999474)
+
+WARNING: Too many light styles on a face at (-1643.551392, 2414.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1651.161621, 2368.486816, 38.000168)
+
+WARNING: Too many light styles on a face at (-1649.820068, 2356.447266, 34.000076)
+
+WARNING: Too many light styles on a face at (-1646.183716, 2411.551270, 34.000027)
+
+WARNING: Too many light styles on a face at (-1631.513306, 2540.835449, 37.999996)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2417.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1643.551392, 2481.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2478.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1638.874634, 2493.780273, 38.000160)
+
+WARNING: Too many light styles on a face at (-1646.186646, 2484.449951, 33.999924)
+
+WARNING: Too many light styles on a face at (-1638.871216, 2466.222168, 37.999447)
+
+WARNING: Too many light styles on a face at (-1634.222168, 2489.128662, 38.001045)
+
+WARNING: Too many light styles on a face at (-1644.835449, 2496.486572, 38.000336)
+
+WARNING: Too many light styles on a face at (-1634.218994, 2470.875244, 38.000000)
+
+WARNING: Too many light styles on a face at (-1646.183472, 2548.448975, 33.999920)
+
+WARNING: Too many light styles on a face at (-1649.816284, 2539.551514, 34.000015)
+
+WARNING: Too many light styles on a face at (-1644.833374, 2463.513916, 38.000019)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2286.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1638.874023, 2557.779785, 37.999813)
+
+WARNING: Too many light styles on a face at (-1634.214478, 2553.118896, 38.000031)
+
+WARNING: Too many light styles on a face at (-1638.875244, 2530.219727, 37.999504)
+
+WARNING: Too many light styles on a face at (-1634.218994, 2534.875244, 38.000000)
+
+WARNING: Too many light styles on a face at (-1651.164429, 2527.513672, 38.000389)
+
+WARNING: Too many light styles on a face at (-1646.183716, 2539.551270, 34.000008)
+
+WARNING: Too many light styles on a face at (-1644.837646, 2527.513184, 38.000019)
+
+WARNING: Too many light styles on a face at (-1631.513428, 2547.164063, 37.999996)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2545.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1649.816284, 2603.551270, 33.999985)
+
+WARNING: Too many light styles on a face at (-1638.874634, 2621.780273, 38.000160)
+
+WARNING: Too many light styles on a face at (-1646.182861, 2603.551514, 34.000057)
+
+WARNING: Too many light styles on a face at (-1643.551147, 2606.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1643.551392, 2609.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1631.513306, 2611.164063, 37.999996)
+
+WARNING: Too many light styles on a face at (-1646.181763, 2475.552002, 33.999947)
+
+WARNING: Too many light styles on a face at (-1651.164063, 2591.513672, 38.000484)
+
+WARNING: Too many light styles on a face at (-1638.877075, 2594.218262, 38.000072)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2670.183838, 34.000000)
+
+WARNING: Too many light styles on a face at (-1634.219116, 2598.875244, 38.000000)
+
+WARNING: Too many light styles on a face at (-1649.816162, 2667.551270, 33.999966)
+
+WARNING: Too many light styles on a face at (-1644.837280, 2591.513184, 37.999935)
+
+WARNING: Too many light styles on a face at (-1643.551270, 2673.816162, 34.000000)
+
+WARNING: Too many light styles on a face at (-1634.218872, 2617.124756, 38.000000)
+
+WARNING: Too many light styles on a face at (-1646.183472, 2667.551514, 34.000011)
+
+WARNING: Too many light styles on a face at (-1664.013550, 2249.835449, 51.999996)
+
+WARNING: Too many light styles on a face at (-1677.962158, 2228.657227, 52.000282)
+
+WARNING: Too many light styles on a face at (-1669.929077, 2235.963135, 51.999996)
+
+WARNING: Too many light styles on a face at (-1688.680176, 2269.835693, 40.000000)
+
+WARNING: Too many light styles on a face at (-1701.958862, 2252.659180, 40.000122)
+
+WARNING: Too many light styles on a face at (-1692.656128, 2261.963135, 40.000000)
+
+WARNING: Too many light styles on a face at (-1687.000000, 2664.000000, 40.000000)
+.3...4.
+WARNING: Too many light styles on a face at (-1432.000000, 3071.000000, 264.000000)
+
+WARNING: Too many light styles on a face at (-984.000000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-984.000000, 2504.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2812.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2820.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2932.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-992.500000, 2696.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1004.000000, 2932.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2703.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1023.500061, 2700.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2576.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1023.500061, 2442.000244, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2448.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2320.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2192.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1023.500061, 2571.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1023.500061, 2313.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2940.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-996.000000, 2932.000000, 9.000000)
+.
+WARNING: Too many light styles on a face at (-1016.000000, 2804.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2184.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-705.000000, 2216.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-705.000000, 2968.000000, 296.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 3007.000000, 264.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2089.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2089.000000, 168.000000)
+
+WARNING: Too many light styles on a face at (-705.000000, 2092.000000, 168.000000)
+
+WARNING: Too many light styles on a face at (-705.000000, 2588.000000, 168.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 3007.000000, 168.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2807.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2936.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2935.000000, 88.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 3007.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-996.000000, 2807.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2815.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1009.000000, 2832.000000, 91.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2807.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-994.000000, 2328.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-994.000000, 2584.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-994.000000, 2456.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-992.500000, 2193.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-992.500000, 2703.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-993.000000, 2196.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2702.000000, 4.000000)
+
+WARNING: Too many light styles on a face at (-1020.000000, 2703.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-994.000000, 2200.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2574.000000, 4.000000)
+
+WARNING: Too many light styles on a face at (-1512.000000, 2504.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2194.000000, 4.000000)
+
+WARNING: Too many light styles on a face at (-1512.000000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1688.000000, 2696.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1016.000000, 2322.000000, 4.000000)
+
+WARNING: Too many light styles on a face at (-1376.500000, 2696.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2932.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1503.500000, 2696.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 3004.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1248.500000, 2696.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1020.000000, 2193.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-1111.000122, 2700.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2576.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1864.000000, 2632.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2696.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2448.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2703.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.000122, 2571.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2320.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.000122, 2442.000244, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2192.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1111.000122, 2313.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1120.500000, 2696.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1060.000000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1052.000000, 2940.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1044.000000, 2940.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1050.000000, 2962.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1050.000000, 2982.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1816.000000, 2328.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1042.000000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1500.000000, 3004.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1500.000000, 2932.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2576.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1720.000000, 2248.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1498.000000, 2571.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1498.000000, 2700.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2703.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2448.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1498.000000, 2313.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1498.000000, 2442.000244, 9.000000)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2320.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2192.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1369.000122, 2700.000244, 9.000000)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2703.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2576.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1369.000122, 2442.000244, 9.000000)
+
+WARNING: Too many light styles on a face at (-1369.000122, 2571.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2320.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2448.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1369.000122, 2313.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2192.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2703.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2700.000244, 9.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2442.000244, 9.000000)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2576.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2571.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2320.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2448.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2313.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2192.500000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1480.000000, 2932.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1480.000000, 3004.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1297.000000, 2082.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2184.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1248.500000, 3000.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1188.000000, 2184.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1060.000000, 2932.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2184.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2996.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1248.500000, 2856.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1288.000000, 2087.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2804.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2812.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1480.000000, 2820.000000, 9.000000)
+
+WARNING: Too many light styles on a face at (-1807.000000, 2345.600098, 58.000000)
+
+WARNING: Too many light styles on a face at (-1807.000000, 2348.000000, 50.000000)
+
+WARNING: Too many light styles on a face at (-1807.000000, 2342.000000, 56.000000)
+
+WARNING: Too many light styles on a face at (-1807.000000, 2698.000000, 56.000000)
+
+WARNING: Too many light styles on a face at (-1807.000000, 2572.000000, 50.000000)
+
+WARNING: Too many light styles on a face at (-1807.000000, 2569.600098, 58.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2157.333252, 191.555557)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2652.000000, 184.000000)
+
+WARNING: Too many light styles on a face at (-1807.000000, 2473.599854, 62.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2566.000000, 54.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2478.000000, 58.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2478.000000, 34.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2482.000000, 55.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2474.000000, 54.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2103.531982, 185.777771)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2109.554443, 187.885895)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2344.000000, 40.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2092.000000, 264.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2172.000000, 186.787872)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2175.666748, 182.264069)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2185.212158, 164.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2338.000000, 56.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2776.000000, 264.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2121.047607, 191.333328)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2092.000000, 152.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2188.000000, 152.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2092.000000, 184.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2702.000000, 56.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2346.000000, 158.000000)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2572.000000, 40.000000)
+
+WARNING: Too many light styles on a face at (-1060.000000, 3007.000000, 23.999992)
+
+WARNING: Too many light styles on a face at (-1791.000000, 2712.000000, 152.000000)
+
+WARNING: Too many light styles on a face at (-1464.000000, 3007.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 3007.000000, 23.999992)
+
+WARNING: Too many light styles on a face at (-1784.000000, 3007.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1500.000000, 3007.000000, 11.999985)
+
+WARNING: Too many light styles on a face at (-1048.000000, 3007.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-1432.000000, 3064.000000, 113.000000)
+
+WARNING: Too many light styles on a face at (-1057.000000, 3032.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-1439.000000, 3032.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-1432.000000, 3016.000000, 113.000000)
+
+WARNING: Too many light styles on a face at (-1057.000000, 3016.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-1439.000000, 3016.000000, 280.000000)
+
+WARNING: Too many light styles on a face at (-1444.000000, 3000.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1432.000000, 2868.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1288.000000, 2824.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1444.000000, 2856.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1048.000000, 2936.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2868.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 3000.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1096.000000, 3007.000000, 24.000000)
+
+WARNING: Too many light styles on a face at (-1192.000000, 2868.000000, 153.000000)
+
+WARNING: Too many light styles on a face at (-1192.000000, 2856.000000, 153.000000)
+.
+WARNING: Too many light styles on a face at (-1288.000000, 2831.000000, 180.000000)
+
+WARNING: Too many light styles on a face at (-1288.000000, 2836.000000, 185.000000)
+
+WARNING: Too many light styles on a face at (-1288.001221, 2089.000000, 296.000000)
+
+WARNING: Too many light styles on a face at (-1057.000000, 2876.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1464.000000, 2089.000000, 296.000000)
+
+WARNING: Too many light styles on a face at (-1044.000000, 2935.000000, 56.000000)
+
+WARNING: Too many light styles on a face at (-1052.000000, 2935.000000, 88.000000)
+
+WARNING: Too many light styles on a face at (-1176.000000, 3000.000000, 113.000000)
+
+WARNING: Too many light styles on a face at (-1060.000000, 2935.000000, 91.000000)
+
+WARNING: Too many light styles on a face at (-1065.000000, 2976.000000, 62.000000)
+
+WARNING: Too many light styles on a face at (-1188.000000, 2807.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1188.000000, 2089.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1188.000000, 2815.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1188.000000, 2089.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1188.000000, 2807.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2091.000000, 108.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2807.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2815.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2807.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1196.000000, 2089.000000, 113.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2089.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2815.000000, 100.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2091.000000, 96.000000)
+
+WARNING: Too many light styles on a face at (-1300.000000, 2807.000000, 100.000000)
+
+WARNING: Too many light styles on a face at (-1295.000000, 2087.000000, 96.000000)
+
+WARNING: Too many light styles on a face at (-1196.000000, 2091.000000, 96.000000)
+
+WARNING: Too many light styles on a face at (-1201.000000, 2087.000000, 96.000000)
+
+WARNING: Too many light styles on a face at (-1439.000000, 2876.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1432.000000, 3000.000000, 113.000000)
+
+WARNING: Too many light styles on a face at (-1444.000000, 2807.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1444.000000, 2089.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1444.000000, 2815.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1444.000000, 2807.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2089.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2807.000000, 148.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2089.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2815.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2807.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1500.000000, 2807.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2815.000000, 88.000000)
+
+WARNING: Too many light styles on a face at (-1487.000000, 2832.000000, 91.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2999.000000, 12.000000)
+
+WARNING: Too many light styles on a face at (-1487.000000, 2832.000000, 71.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2089.000000, 88.000000)
+
+WARNING: Too many light styles on a face at (-1492.000000, 2807.000000, 88.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2089.000000, 88.000000)
+
+WARNING: Too many light styles on a face at (-1487.000000, 3004.000000, 15.000000)
+
+WARNING: Too many light styles on a face at (-1500.000000, 2807.000000, 88.000000)
+
+WARNING: Too many light styles on a face at (-1784.000000, 2089.000000, 68.000000)
+
+WARNING: Too many light styles on a face at (-1500.000000, 2807.000000, 68.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2563.000000, 51.999996)
+
+WARNING: Too many light styles on a face at (-1792.500000, 2563.000000, 52.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2566.000000, 61.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2572.000000, 49.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2478.000000, 61.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2699.000000, 56.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2478.000000, 37.000000)
+
+WARNING: Too many light styles on a face at (-1792.500000, 2478.000000, 37.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2474.000000, 61.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2471.000000, 54.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2257.000000, 152.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2346.000000, 49.000000)
+
+WARNING: Too many light styles on a face at (-1800.000000, 2341.000000, 56.000000)
+
+WARNING: Too many light styles on a face at (-1806.000000, 2536.000000, 52.000000)
+
+WARNING: Too many light styles on a face at (-1816.000000, 2695.000000, 58.000000)
+
+WARNING: Too many light styles on a face at (-1816.000000, 2345.000000, 58.000000)
+
+WARNING: Too many light styles on a face at (-1816.000000, 2348.000000, 53.000000)
+
+WARNING: Too many light styles on a face at (-1816.000000, 2257.000000, 152.000000)
+
+WARNING: Too many light styles on a face at (-1848.000000, 2703.000000, 136.000000)
+
+WARNING: Too many light styles on a face at (-1912.000000, 2257.000000, 136.000000)
+5
+WARNING: Too many light styles on a face at (-1935.000000, 2678.000000, 120.000000)
+
+WARNING: Too many light styles on a face at (-1122.000000, 2200.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1122.000000, 2328.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1122.000000, 2456.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2702.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2194.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2322.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1111.500000, 2574.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2322.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2574.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2194.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1239.500000, 2702.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1122.000000, 2584.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1374.000000, 2584.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1374.000000, 2328.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2322.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2574.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1374.000000, 2456.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2702.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1374.000000, 2200.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1502.000000, 2200.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1367.500000, 2194.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1502.000000, 2584.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1502.000000, 2328.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2702.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2574.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1500.000000, 2703.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-1500.000000, 2193.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-1503.000000, 2196.000000, -4.000000)
+
+WARNING: Too many light styles on a face at (-1502.000000, 2456.500000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2194.000000, 3.999999)
+
+WARNING: Too many light styles on a face at (-1495.500000, 2322.000000, 3.999999)
+...6...7...8...
+WARNING: Too many light styles on a face at (-1654.674438, 2294.674316, 41.000000)
+
+WARNING: Too many light styles on a face at (-1631.513672, 2284.835449, 38.000000)
+
+WARNING: Too many light styles on a face at (-1634.219360, 2278.875000, 38.000000)
+
+WARNING: Too many light styles on a face at (-1638.875244, 2274.218750, 38.000000)
+
+WARNING: Too many light styles on a face at (-1634.218994, 2297.124756, 38.000000)
+
+WARNING: Too many light styles on a face at (-1631.513550, 2291.164063, 38.000000)
+
+WARNING: Too many light styles on a face at (-1651.163940, 2304.486572, 38.000000)
+
+WARNING: Too many light styles on a face at (-1638.875244, 2301.780762, 38.000000)
+
+WARNING: Too many light styles on a face at (-1644.835449, 2304.486328, 38.000000)
+
+WARNING: Too many light styles on a face at (-1631.513672, 2412.835449, 38.000000)
+
+WARNING: Too many light styles on a face at (-1638.875244, 2402.218750, 38.000000)
+
+WARNING: Too many light styles on a face at (-1644.835449, 2399.513672, 38.000000)
+
+WARNING: Too many light styles on a face at (-1634.219482, 2406.874756, 38.000000)
+
+WARNING: Too many light styles on a face at (-1654.674438, 2422.674316, 41.000000)
+
+WARNING: Too many light styles on a face at (-1634.218872, 2425.124756, 38.000000)
+
+WARNING: Too many light styles on a face at (-1631.513672, 2419.164063, 38.000000)
+
+WARNING: Too many light styles on a face at (-1638.875244, 2429.780762, 38.000000)
+
+WARNING: Too many light styles on a face at (-1631.513794, 2668.835449, 38.000000)
+
+WARNING: Too many light styles on a face at (-1644.835449, 2432.486328, 38.000000)
+
+WARNING: Too many light styles on a face at (-1638.875244, 2658.218750, 38.000000)
+
+WARNING: Too many light styles on a face at (-1654.674438, 2678.674316, 41.000000)
+
+WARNING: Too many light styles on a face at (-1634.219604, 2662.874756, 38.000000)
+
+WARNING: Too many light styles on a face at (-1644.835449, 2655.513672, 38.000000)
+
+WARNING: Too many light styles on a face at (-1651.164185, 2655.513428, 38.000000)
+
+WARNING: Too many light styles on a face at (-1634.219116, 2681.124756, 38.000000)
+
+WARNING: Too many light styles on a face at (-1631.513550, 2675.164063, 38.000000)
+
+WARNING: Too many light styles on a face at (-1638.875244, 2685.780762, 38.000000)
+9
+WARNING: Too many light styles on a face at (-1112.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2440.000000, 1.000000)
+.
+WARNING: Too many light styles on a face at (-1496.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2696.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2568.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1496.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2440.000000, 1.000000)
+.
+WARNING: Too many light styles on a face at (-1496.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2440.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1240.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1368.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1112.000000, 2312.000000, 1.000000)
+
+WARNING: Too many light styles on a face at (-1247.875000, 2085.000000, 97.125000)
+
+WARNING: Too many light styles on a face at (-1235.875000, 2083.000000, 69.000000)
+
+WARNING: Too many light styles on a face at (-1209.000000, 2083.000000, 81.125000)
+
+WARNING: Too many light styles on a face at (-1236.000000, 2083.000000, 83.875008)
+
+WARNING: Too many light styles on a face at (-1204.000000, 2085.000000, 81.125000)
+
+WARNING: Too many light styles on a face at (-1247.875000, 2085.000000, 81.125000)
+
+WARNING: Too many light styles on a face at (-1247.875000, 2085.000000, 63.125000)
+
+WARNING: Too many light styles on a face at (-1295.875000, 2085.000000, 97.125000)
+
+WARNING: Too many light styles on a face at (-1283.875000, 2083.000000, 69.000000)
+
+WARNING: Too many light styles on a face at (-1287.000000, 2083.000000, 81.125000)
+
+WARNING: Too many light styles on a face at (-1284.000000, 2083.000000, 83.875008)
+
+WARNING: Too many light styles on a face at (-1252.000000, 2085.000000, 81.125000)
+
+WARNING: Too many light styles on a face at (-1295.875000, 2085.000000, 63.125000)
+
+WARNING: Too many light styles on a face at (-1295.875000, 2085.000000, 81.125000)
+.100...1...2...3...4...5...6...7...8...9...10transfers 38627481, max 2323
+transfer lists: 294.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1255558, 1212347, 967489)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(240609, 225644, 163651)
+Build Patch/Sample Hash Table(s).....Done<0.0488 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 377/1024        18096/49152    (36.8%) 
+brushes               2560/8192        30720/98304    (31.3%) 
+brushsides           19278/65536      154224/524288   (29.4%) 
+planes               12792/65536      255840/1310720  (19.5%) 
+vertexes             20964/65536      251568/786432   (32.0%) 
+nodes                 6947/65536      222304/2097152  (10.6%) 
+texinfos              1721/12288      123912/884736   (14.0%) 
+texdata                107/2048         3424/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11823/65536      662088/3670016  (18.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8241/65536      461496/3670016  (12.6%) 
+facebrushes           1756/0            3512/0        ( 0.0%) 
+facebrushlists       11823/0           47292/0        ( 0.0%) 
+leaves                7325/65536      234400/2097152  (11.2%) 
+leaffaces            13652/65536       27304/131072   (20.8%) 
+leafbrushes           4027/65536        8054/131072   ( 6.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            90492/512000     361968/2048000  (17.7%) 
+edges                55354/256000     221416/1024000  (21.6%) 
+LDR worldlights        154/8192        15400/819200   ( 1.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1250/32768       12500/327680   ( 3.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         21264/65536       42528/131072   (32.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                11/1024         3872/360448   ( 1.1%) 
+LDR lightdata         [variable]     7172250/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1003807/16777216 ( 6.0%) 
+entdata               [variable]      497619/393216   (126.6%) VERY FULL!
+LDR ambient table     7325/65536       29300/262144   (11.2%) 
+HDR ambient table     7325/65536       29300/262144   (11.2%) 
+LDR leaf ambient     33556/65536      939568/1835008  (51.2%) 
+HDR leaf ambient      7325/65536      205100/1835008  (11.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/34148    ( 0.0%) 
+pakfile               [variable]      242357/0        ( 0.0%) 
+physics               [variable]     1080626/4194304  (25.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 32633
+Writing c:\users\cullen\dropbox\maps\csgo\jb_jailberd_alpha_radar.bsp
+1 minute, 45 seconds elapsed

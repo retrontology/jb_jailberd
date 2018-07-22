@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+
+	 $basetexture "jb_jailberd/cratebig01c.tga"
+	 $translucent "1"
+}
